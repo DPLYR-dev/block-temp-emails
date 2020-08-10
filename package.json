@@ -1,0 +1,16 @@
+{
+  "name": "tempemails",
+  "version": "1.0.0",
+  "description": "Block Temperoray emails from using your website",
+  "main": "index.js",
+  "repository": "https://github.com/dplyr-dev/block-temp-emails",
+  "author": "Ahmed M. Gamal",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts":{
+    "start":"node index.js"
+  }
+}
