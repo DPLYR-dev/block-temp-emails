@@ -3,7 +3,7 @@ const cors = require('cors')
 const fs = require('fs')
 const readline = require('readline');
 var app = express();
-var PORT = process.env.PORT | 3001;
+var PORT = process.env.PORT || 3001;
 app.use(cors())
 
 var domains = []
