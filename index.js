@@ -25,7 +25,7 @@ app.get("/:email", function (req, res) {
   var email = req.params.email;
   var emaild = email.toString().split("@")
   if (emaild.length == 0) {
-    return res.json({ "message": "envalid email" })
+    return res.json({ "message": "invalid email" })
   }
   if (domains.includes(emaild[1])) {
     return res.json({ "message": "temp email" })
