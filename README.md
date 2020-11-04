@@ -6,7 +6,6 @@ Easy to use API to prevent temporary emails from signing up on your website. Sup
 ![image (alt)](https://i.imgur.com/D1WG1Bo.png&s=50)
 * [DPLYR](https://dplyr.dev) is a new generation of cloud platforms and aims to help developers in their road with open source contributions, and at the end we can say thanks.
 
-
 ### All Supported Projects by [DPLYR](https://dplyr.dev)
 * [Splash Screen - Flutter](https://github.com/DPLYR-dev/SplashScreenFlutterPackage)
   <br> a flutter package created to show simple splashscreen
@@ -25,6 +24,12 @@ Easy to use API to prevent temporary emails from signing up on your website. Sup
   
 * [Disposable Emails List](https://github.com/DPLYR-dev/disposable-emails-list-domains-spam)
   <br> a python script to generate the temporary and spam doamins to prevent them and you can block them through this API [Block temp mails](https://github.com/DPLYR-dev/block-temp-emails)
+
+* [Basic CRM](https://github.com/DPLYR-dev/basic-crm)
+  <br> A crm that is developed with Node Js for entreprenurs who need a basic CRM with text replacment feature
+  
+* [Basic Finance](https://github.com/DPLYR-dev/basic-finance)
+  <br> A finance that is developed with Node Js
 
 ## About DPLYR
 [DPLYR](https://www.dplyr.dev) is a SaaS tool that helps developers just like you to deploy their web apps more easily. It supports deploying Node.js apps with MongoDB, MySQL or PostgreSQL databases all for free. Go now  to [www.dplyr.dev](https://www.dplyr.dev) and create a free account.
